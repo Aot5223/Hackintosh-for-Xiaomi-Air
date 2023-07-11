@@ -5,18 +5,18 @@
 
 
 # 📄 Contents
-- [Language Selection](#- 語言選擇/语言选择)
-- [Project Notes](#- Project notes)
-- [profile](#- profile)
-- [Download address](#- Download address)
-- [configuration](#- configuration)
-- [System compatibility](#- System compatibility)
+- [Language Selection](#語言選擇/语言选择)
+- [Project Notes](#Project-notes)
+- [profile](#profile)
+- [Download address](#Download-address)
+- [configuration](#configuration)
+- [System compatibility](#System-compatibility)
 - [Update log](Update log.md)
-- [What works and doesn't work](#- What works and doesn't work)
-- [Installation Guide](#- Installation Guide)
-- [thank you](#- thank you)
-- [Contact information](#- contact information)
-- [Copyright Notice](#- Copyright Notice)
+- [What works and doesn't work](#What-works-and-doesn't-work)
+- [Installation Guide](#Installation-Guide)
+- [thank you](#thank-you)
+- [Contact information](#contact-information)
+- [Copyright Notice](#Copyright-Notice)
 
 
 ## 🔎 語言選擇/语言选择
