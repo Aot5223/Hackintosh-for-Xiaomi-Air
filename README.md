@@ -82,8 +82,6 @@ EFI
   - [x] Monterey 
   - [x] Ventura 
 
-注:Catalina从10.15.4版本起支持
-
 ## ❓ 什么工作和不工作
 - [x] USB接口
 - [x] Intel HD 520
