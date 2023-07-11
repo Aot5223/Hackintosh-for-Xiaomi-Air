@@ -11,7 +11,7 @@
 - [Download address](#Download-address)
 - [configuration](#configuration)
 - [System compatibility](#System-compatibility)
-- [Update log](Update log.md)
+- [Update log](Update-log.md)
 - [What works and doesn't work](#What-works-and-doesn't-work)
 - [Installation Guide](#Installation-Guide)
 - [thank you](#thank-you)
