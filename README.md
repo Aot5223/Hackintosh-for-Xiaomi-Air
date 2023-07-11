@@ -159,7 +159,7 @@ EFI
 如有问题或建议，欢迎联系本项目的作者。
 
 - 邮箱：1551656605@qq.com
-- GitHub：https://github.com/bilijp153
+- GitHub：https://github.com/Aot5223
 - 还可以通过 GitHub 的 [Issues](https://github.com/Aot5223/Hackintosh-for-Xiaomi-Air/issues)功能与我们联系。
 
 
