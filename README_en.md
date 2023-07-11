@@ -1,4 +1,4 @@
-<h1> Xiaomi Air 13,3 Laptop Black Apple </h1>
+<h1> Xiaomi Air 13,3 Laptop Hackintosh </h1>
 
 <b> Hackintosh for 小米 Air 13,3
 
