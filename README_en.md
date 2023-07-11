@@ -71,7 +71,7 @@ Among them, Bootx64.efi in Boot is the notebook EFI boot file; The ACPI in OC co
 | sound card | Realtek ALC298 |
 | wireless card | |
 | touch pad | |
-| OpenCore version | [! [](https://img.shields.io/github/v/release/acidanthera/OpenCorePkg?include_prereleases&style=social&label=&logo=apple)]( https://github.com/acidanthera/OpenCorePkg/releases)     |
+| OpenCore version | [![](https://img.shields.io/github/v/release/acidanthera/OpenCorePkg?include_prereleases&style=social&label=&logo=apple)](https://github.com/acidanthera/OpenCorePkg/releases)     |
 
 ## ✅ System compatibility
 
