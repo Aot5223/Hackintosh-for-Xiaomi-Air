@@ -51,6 +51,7 @@ EFI
 ├── Tools
 ├── config.plist
 └── Opencore.efi
+
 ` ` `
 
 Among them, Bootx64.efi in Boot is the notebook EFI boot file; The ACPI in OC contains files such as DSDT, SSDT, UEFI variable and patch, Kexts contains Drivers, Drivers contains OpenCore bootloader, and Tools contains OpenCore related tools. Resources contains the Opencore boot interface theme (graphical interface), config.plist is the OpenCore configuration file, Opencore.efi is the Opencore boot file.
@@ -58,8 +59,7 @@ Among them, Bootx64.efi in Boot is the notebook EFI boot file; The ACPI in OC co
 
 
 
-[! [Download from  https://github.com/Aot5223/Hackintosh-for-Xiaomi-Air/releases](https://img.shields.io/github/v/release/Aot5223/Hackintos H - for - Xiaomi - Air? Label = download)] (https://github.com/Aot5223/Hackintosh-for-Xiaomi-Air/releases)
-
+[![Download from https://github.com/Aot5223/Hackintosh-for-Xiaomi-Air/releases](https://img.shields.io/github/v/release/Aot5223/Hackintosh-for-Xiaomi-Air?label=Dowmload)](https://github.com/Aot5223/Hackintosh-for-Xiaomi-Air/releases)
 ## ⚙ configuration
 
 | Configuration | Model |
