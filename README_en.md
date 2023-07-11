@@ -106,8 +106,8 @@ Among them, Bootx64.efi in Boot is the notebook EFI boot file; The ACPI in OC co
 - Confirm that there are no built-in solid and mechanical disks not supported by other Black Apples
 
 ### Download and install Mac
-1. [download] (https://github.com/Aot5223/Hackintosh-for-Xiaomi-Air/releases) the EFI files in the warehouse.
-2. Use a USB startup disk creation tools [Etcher] (https://www.balena.io/etcher/) (recommended) production of U disk boot disk.
+1. [download](https://github.com/Aot5223/Hackintosh-for-Xiaomi-Air/releases) the EFI files in the warehouse.
+2. Use a USB startup disk creation tools [Etcher](https://www.balena.io/etcher/) (recommended) production of U disk boot disk.
 3. Copy the EFI folder to the EFI partition of the USB flash drive.
 4. Enter the BIOS Settings and select a USB flash drive from Boot Options.
 5. On the OpenCore boot screen, select Install macOS on the USB flash drive.
@@ -131,12 +131,12 @@ Among them, Bootx64.efi in Boot is the notebook EFI boot file; The ACPI in OC co
 - Requires an "invalid serial number" or "Purchase date not verified" message to work. If you get other prompts, you must generate a new 'SMBIOS (three codes)' and check again.
 
 ### Use BootCamp
-[corpnewt] (https://github.com/corpnewt) - download [brigadier] (https://github.com/corpnewt/brigadier)
+[corpnewt](https://github.com/corpnewt) - download [brigadier](https://github.com/corpnewt/brigadier)
 - Install py as prompted
 - The program automatically downloads' Bootcamp program on Windows' after completion
 - Follow the prompts to open the downloaded 'dmg' and copy the files inside to the Windows system disk
 - Go to EFI's model Settings' Open using OCAT or OpenCore Configurator ', modify model 'UpdateSMBIOSMod to Create and enable SpoofVendor' to make Windows think you are a Mac model
-- Restart Windows (How to enter Windows [BIOS](#BIOS))
+- Restart Windows
 - Install the Bootcamp program
 - Follow the installer prompts to restart, then return to 'Mac'
 - Go to EFI's model Settings' Open using OCAT or OpenCore Configurator ', modify the model's modification model 'UpdateSMBIOSMod to Custom and turn off SpoofVendor' so that Windows no longer considers you a Mac model
@@ -158,8 +158,8 @@ Among them, Bootx64.efi in Boot is the notebook EFI boot file; The ACPI in OC co
 If you have any questions or suggestions, please contact the authors of this project.
 
 - Email: 1551656605@qq.com
-- GitHub:https://github.com/bilijp153
-- can also be through a lot [Issues] (https://github.com/Aot5223/Hackintosh-for-Xiaomi-Air/issues) to contact us.
+- GitHub:https://github.com/Aot5223
+- can also be through a lot [Issues](https://github.com/Aot5223/Hackintosh-for-Xiaomi-Air/issues) to contact us.
 
 
 ## 📄 Copyright Notice
