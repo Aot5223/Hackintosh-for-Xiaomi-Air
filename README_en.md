@@ -39,20 +39,19 @@
 
 The EFI profile provided with this project contains the following:
 
-` ` `
+``` 
 EFI
 ├── BOOT
 │   └── BOOTx64.efi
 └── OC
-├── ACPI
-├── Kexts
-├── Drivers
-├── Resources
-├── Tools
-├── config.plist
-└── Opencore.efi
-
-` ` `
+    ├── ACPI
+    ├── Kexts
+    ├── Drivers
+    ├── Resources
+    ├── Tools
+    ├── config.plist
+    └── Opencore.efi
+```
 
 Among them, Bootx64.efi in Boot is the notebook EFI boot file; The ACPI in OC contains files such as DSDT, SSDT, UEFI variable and patch, Kexts contains Drivers, Drivers contains OpenCore bootloader, and Tools contains OpenCore related tools. Resources contains the Opencore boot interface theme (graphical interface), config.plist is the OpenCore configuration file, Opencore.efi is the Opencore boot file.
 
