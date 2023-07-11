@@ -88,7 +88,6 @@ EFI
 - [x] USB接口
 - [x] Intel HD 520
 - [x] 声卡
-- [x] 耳机接口
 - [x] 麦克风
 - [x] WiFi
 - [X] 蓝牙
