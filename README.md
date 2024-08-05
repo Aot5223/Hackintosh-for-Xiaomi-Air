@@ -166,6 +166,6 @@ EFI
 ## 📄 版权声明
 本项目遵循 MIT 开源协议。您可以自由地使用、修改和分发本项目，但请注明出处并保留原始版权声明。详情请参见 [许可证](License) 文件。
  
-© 2023 Aot5223.  All rights reserved.
+© 2024 Aurora.  All rights reserved.
    
 
